@@ -106,4 +106,24 @@ body {padding: 0%; margin: 0%; background-color: rgba(255, 255, 255, 0) ;font-fa
        
       right: 100px; bottom: 20px;}
 
+
+      /*-----/* about*/ 
+
+      .about{ font-size: 70px; text-align: center;  font-family:'Courier New', Courier, monospace}
+      .about{ float:left  }
+      .about{margin-right: 50%; margin-left: 40px;} 
+      .about{ margin-top: 20%;}
       
+      
+      .competenze{ margin-top: 10%;float: left; margin-right: 50%;margin-left: 20px; font-size: large; font-size: 20; font-family:'Courier New', Courier, monospace }
+
+      
+
+      .about.html{background-color: #e6080836;}
+
+      .fotoabout{ 
+        padding: 20px;
+        text-align: center;
+        background-color:rgba(228, 107, 63, 0.497);
+        font-size: 30px;}
+        .fotoabout{position: absolute;margin-left: 50%;margin-top: 15%;  }
