@@ -1,5 +1,6 @@
-body {padding: 0%; margin: 0%; background-color: rgba(255, 255, 255, 0) ;font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif'; }
+body {padding: 0%; margin: 0%;   ;font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif'; }
 
+ 
 
  
     .header{ position: fixed; background-color: rgba(6, 6, 6, 0.228); z-index: 20;width: 100%;overflow:hidden;height: 100px; overflow-wrap: normal;}
@@ -68,25 +69,16 @@ body {padding: 0%; margin: 0%; background-color: rgba(255, 255, 255, 0) ;font-fa
   .open{ margin-left: 150px;}
 
 
-
+.presentazione{text-align: center;}
     
    
      
-  
-  .wrapper1{ 
-      max-width: 1800px;
-      background-color: #000000db;
-      min-height: 500px;
-      margin: 100px auto;
-      padding: 50px;
-       
-  }
+   
   .wrapper2 {  
-    background-color: #555353;
-    padding: 100px;
-    text-align: center;
-    color: #001858;
-    font-size: 30px;
+    background-color: #55535394;
+    
+   
+    
     
 }
 
@@ -109,21 +101,70 @@ body {padding: 0%; margin: 0%; background-color: rgba(255, 255, 255, 0) ;font-fa
 
       /*-----/* about*/ 
 
+      
+
       .about{ font-size: 70px; text-align: center;  font-family:'Courier New', Courier, monospace}
       .about{ float:left  }
       .about{margin-right: 50%; margin-left: 40px;} 
       .about{ margin-top: 20%;}
       
       
-      .competenze{ margin-top: 10%;float: left; margin-right: 50%;margin-left: 20px; font-size: large; font-size: 20; font-family:'Courier New', Courier, monospace }
+      .competenze{ margin-top: 10%;float: left; margin-right: 50%;margin-left: 20px; font-size: large; font-size: 50; font-family:'Courier New', Courier, monospace  }
 
       
 
-      .about.html{background-color: #e6080836;}
+      
 
       .fotoabout{ 
         padding: 20px;
         text-align: center;
-        background-color:rgba(228, 107, 63, 0.497);
+        background-color:rgba(0, 0, 0, 0.193);
         font-size: 30px;}
-        .fotoabout{position: absolute;margin-left: 50%;margin-top: 15%;  }
+        .fotoabout{position: absolute;margin-left: 50%;margin-top: 10%;  }
+
+        .fotoabout2{background-color: #001858;padding: 20px;
+          text-align:center;
+          background-color:rgba(108, 194, 3, 0.497);
+          font-size: 80px;position: absolute;margin-left: 1%;margin-top: 50%;padding: 9%;height: 300px;width: 25%; font-family:    monospace }
+
+          .fotoabout3{background-color: #001858;padding: 20px;
+            text-align: center;
+            background-color:rgba(156, 12, 12, 0.447);
+            font-size: 50px;position: absolute;margin-left: 47%;margin-top: 58%;padding: 5%;height: 300px;width: 25%; font-family:   monospace }
+
+            .fotoabout4{ 
+               
+              
+              position: absolute;margin-left: 15%;padding: 5%;height: 300px;width: 25%; margin-top: 5%; }
+
+              .fotoabout5{background-color: #001858;padding: 20px;
+                text-align: center;
+                background-color:rgba(5, 115, 110, 0.429);
+                font-size: 30px;position: absolute;margin-left: 80%;margin-top: 80%;padding: 5%;height: 300px;width: 25%; }
+
+                .fotoabout6{background-color: #001858;padding: 20px;
+                  text-align: center;
+                  background-color:rgba(5, 115, 110, 0.295);
+                  font-size: 30px;position: absolute; padding: 2%;height: 20px;width: 10%; margin-top: 20%; margin-left: 2%; }
+                  
+                  .color{background-color:rgba(0,0,0, 0.9) ;}
+                   .graffabout{position: fixed; margin-top: 20px; }
+
+                  
+                  /*-----/* lavori */ 
+                  .gheisha{ float: left; }
+                  .cascata{float: right; margin-top: 1%; }
+                   
+                  .pappagalli{margin-left: 50%;}
+
+                  .brand{text-align: center; background-color:white;}
+                  .animazione{text-align: center; background-color:white;}
+                  .postscape{margin-left: 50%; float: right;margin-bottom: 100px;}
+                  .tshert{float: right;}
+                  .muertos{position: absolute; margin-bottom: 100px;}
+                  .lola{position: absolute;float: right; margin-left: 50%;}
+
+                  
+
+                  
+
