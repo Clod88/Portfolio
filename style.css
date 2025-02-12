@@ -89,15 +89,19 @@ body {padding: 0%; margin: 0%;   ;font-family: 'Gill Sans', 'Gill Sans MT', 'Cal
   padding: 50px;
    }
 
-     h4{ margin-left: 100px; text-decoration: #e60808;float: right;}
-     h5{ float: right;position: relative;}
-     .h5{ position:absolute; right: 100px; bottom: 20px;}
+     h4{ text-decoration: #e60808;text-align: center;}
 
-     .instagram{ float: right;position:relative}
-     .instagram{ position: absolute;
-       
-      right: 100px; bottom: 20px;}
-
+     .simone{ float: left;width: 33%;margin-top: 23px;}
+     .instagram{ 
+				width: 34%;
+				float: left;
+				margin-top: 25px;
+				}
+				
+	.link_social {
+		float: left;
+		margin-left: 20px;
+	}
 
       /*-----/* about*/ 
 
@@ -125,12 +129,12 @@ body {padding: 0%; margin: 0%;   ;font-family: 'Gill Sans', 'Gill Sans MT', 'Cal
         .fotoabout2{background-color: #001858;padding: 20px;
           text-align:center;
           background-color:rgba(108, 194, 3, 0.497);
-          font-size: 80px;position: absolute;margin-left: 1%;margin-top: 50%;padding: 9%;height: 300px;width: 25%; font-family:    monospace }
+          font-size: 65px;position: absolute;margin-left: 1%;margin-top: 65%;padding: 9%;height: 300px;width: 25%; font-family:    monospace }
 
           .fotoabout3{background-color: #001858;padding: 20px;
             text-align: center;
             background-color:rgba(156, 12, 12, 0.447);
-            font-size: 50px;position: absolute;margin-left: 47%;margin-top: 58%;padding: 5%;height: 300px;width: 25%; font-family:   monospace }
+            font-size: 50px;position: absolute;margin-left: 47%;margin-top: 85%;padding: 5%;height: 300px;width: 25%; font-family:   monospace }
 
             .fotoabout4{ 
                
